@@ -34,7 +34,6 @@
    */
   .dropbtn:hover, .dropbtn:focus {
     background-color: #e6e6e6;
-    padding: 8px;
     border-radius: 100px;
   }
   
